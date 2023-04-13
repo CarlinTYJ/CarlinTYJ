@@ -2,6 +2,8 @@
 - 🌱 I’m currently studying computer science in NUS. 
 - 🍎 On a journey to explore more about computer science!
 
+![Carlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlintyj&hide=contribs,prs)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlintyj&hide_progress=true)](https://github.com/carlintyj/github-readme-stats)
 
 
