@@ -4,7 +4,7 @@
 
 ![Carlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlintyj&hide=stars,prs,issues&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlintyj&hide_progress=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlintyj&theme=dark)
 
 ### Languages and Tools:
 
